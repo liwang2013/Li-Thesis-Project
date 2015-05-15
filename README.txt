@@ -1,6 +1,7 @@
 Li-Thesis-Project
 =================
-This github repository is used for Li's thesis project
+This github repository is used for Li's thesis project:
+"Classification of Clinical Tweets Using Apache Mahout"
 
 
 **************************
