@@ -45,9 +45,6 @@ import org.apache.mahout.vectorizer.TFIDF;
 import com.google.common.collect.ConcurrentHashMultiset;
 import com.google.common.collect.Multiset;
 
-/**
- * http://www.chimpler.com
- */
 public class Classifier {
 	
 	public static Map<String, Integer> readDictionnary(Configuration conf, Path dictionnaryPath) {

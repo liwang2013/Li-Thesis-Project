@@ -26,9 +26,7 @@ import org.apache.hadoop.io.SequenceFile;
 import org.apache.hadoop.io.SequenceFile.Writer;
 import org.apache.hadoop.io.Text;
 
-/**
- * http://www.chimpler.com
- */
+
 public class TweetTSVToSeq {
 	public static void main(String args[]) throws Exception {
 		if (args.length != 2) {

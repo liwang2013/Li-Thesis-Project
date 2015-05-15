@@ -36,9 +36,7 @@ import org.apache.mahout.classifier.naivebayes.NaiveBayesModel;
 import org.apache.mahout.common.Pair;
 import org.apache.mahout.common.iterator.sequencefile.SequenceFileIterable;
 
-/**
- * http://www.chimpler.com
- */
+
 public class TopCategoryWords {
 	
 	public static Map<Integer, String> readInverseDictionnary(Configuration conf, Path dictionnaryPath) {
