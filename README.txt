@@ -21,9 +21,14 @@ Calculate the User Influence Score based on user information
 **************************
 TwitterPHP
 **************************
-Web UI to compare and display Twitter data with table, pie chart and bar chart
+Web UI to compare and display Twitter data using table, pie chart and bar chart
 
 **************************
-mahout-naive-ayes-example
+Mahout-standalone
 **************************
-Classify clinical tweets using Mahout Naive Bayes algorithm
+Train and test models with Mahout
+
+**************************
+Mahout-cluster
+**************************
+Classify clinical tweets using Naive Bayes in Hapood cluster
