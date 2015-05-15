@@ -22,7 +22,7 @@ Calculate the User Influence Score based on user information
 **************************
 TwitterPHP
 **************************
-Web UI to compare and display Twitter data using table, pie chart and bar chart
+Web UI to compare and display Twitter data using table, pie-chart and bar-chart
 
 **************************
 Mahout-standalone
