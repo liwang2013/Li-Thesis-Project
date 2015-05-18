@@ -3,6 +3,7 @@ Classification of Clinical Tweets Using Apache Mahout
 
 ## Intro           
 This github repository is used for Li's thesis project **"Classification of Clinical Tweets Using Apache Mahout"**
+
 Propose a new tool called Clinical Tweets Classifier (CTC) to enable scalable classification of clinical content on Twitter using Apache Mahout and Hadoop
 
 ## TStream           
